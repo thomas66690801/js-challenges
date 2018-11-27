@@ -1,5 +1,6 @@
 // Run the following from the terminal in the same folder as this file
 // > npm install promise-source
+// > npm install express
 // Now investigate the following code.
 
 
