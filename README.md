@@ -12,7 +12,7 @@ And finally there is the original js-fundamentals (intermediate fundamentals).
 
 So, end to end the list of problems is:
 
-1. Basic drills and intermediate drills
+1. Basic and intermediate drills
 2. Callback practice
 3. Promises practice
 4. [Browser function practice](https://github.com/harrisonmalone/harrison-js-challenges)
