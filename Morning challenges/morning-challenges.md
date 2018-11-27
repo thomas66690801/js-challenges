@@ -76,8 +76,8 @@ function getCount(str) {
     return vowelsCount
 }
 
-getCount("hello")
-=> 2
+// getCount("hello")
+// => 2
 ```
 10. Toggle class
 ```js
