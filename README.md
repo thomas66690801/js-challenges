@@ -17,3 +17,5 @@ So, end to end the list of problems is:
 3. Promises practice
 4. [Browser function practice](https://github.com/harrisonmalone/harrison-js-challenges)
 5. Intermediate fundamentals
+
+If you need some more vanilla javascript challenges please refer the morning challenge file. These challenges are similar to what we were doing in ruby.
