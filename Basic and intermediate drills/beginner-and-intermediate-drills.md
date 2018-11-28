@@ -28,8 +28,6 @@ Follow the instructions carefully. They will be repetitive and are not designed 
 20. Call the function four times, once with each object, and use the arrays you made.
 21. Write a function that takes five arguments: three strings, and two numbers.
 22. Call that function twice.
-23. Write a function that takes two arguments - one an object, and the other an array. Inside the function log out a value from the object, and an element from the array.
-24. Define four objects, one with one key, one with two keys, one with three keys, and one with four.
 
 The next set of drills are a bit more difficult. I know that sometimes it might be hard to work out what is meant by the question, but I ask that you stay with it and do your best to piece it apart - sometimes it is hard to express these questions without some confusion. I am happy to give answers to some of the questions if that will help with the understanding so that you can move forward. Where a question asks for a log to screen, the simplest thing will be to log the name of the function. Most times in these questions it is not what the function does that will be important, but rather how that function sits within the object, or even within the other function.
 
