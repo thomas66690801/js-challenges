@@ -18,4 +18,4 @@ So, end to end the list of problems is:
 4. [Browser function practice](https://github.com/harrisonmalone/harrison-js-challenges)
 5. Intermediate fundamentals
 
-If you need some more vanilla javascript challenges please refer the [morning challenges](https://github.com/harrisonmalone/js-challenges/blob/master/Morning%20challenges/morning-challenges.md) file. These challenges are similar to what we were doing in ruby.
+If you need some more vanilla js challenges please refer the [morning challenges](https://github.com/harrisonmalone/js-challenges/blob/master/Morning%20challenges/morning-challenges.md) file. These challenges are similar to what we were doing in ruby.
