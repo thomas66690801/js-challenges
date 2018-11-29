@@ -87,4 +87,5 @@ function getCount(str) {
 // within the callback in the event listener i want the image to toggle between a class that makes the image round (and then click again and it's back to the original rectangle)
 ```
 11. [JS function notation challenge](https://gist.github.com/harrisonmalone/dd0db73c27b81aaf0cb8a0aedd09353f)
-12. [Money, money money](https://www.codewars.com/kata/money-money-money/javascript) 
+12. [Money, money money](https://www.codewars.com/kata/money-money-money/javascript)
+13. [Consecutive strings](https://www.codewars.com/kata/consecutive-strings/javascript) 
